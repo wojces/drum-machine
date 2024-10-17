@@ -1,3 +1,3 @@
 ### Drum Machine
 
-[visit app](https://wojces.github.io/drum-machine/)
+[visit project site](https://wojces.github.io/drum-machine/)
